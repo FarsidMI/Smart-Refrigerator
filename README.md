@@ -1,6 +1,6 @@
 # Smart-Refrigerator
 
-＜img src="![alt text](1.png)" width="500" height="300"＞
+<img src="1.png" width=500 height=300＞
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
